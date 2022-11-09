@@ -1,2 +1,14 @@
-# MVC-EJ2-Grid-server-side-exporting
-Exporting EJ2 ASP.NET MVC Grid in server side
+# ASP.NET MVC DataGrid - Excel Export
+
+This sample explains about how to export the data to excel in ASP.NET MVC Grid control.
+
+## Prerequisites
+
+* Visual Studio 2022
+
+## How to run the project
+
+* Checkout this project to a location in your disk.
+* Open the solution file using the Visual Studio 2022.
+* Restore the NuGet packages by rebuilding the solution.
+* Run the project.
